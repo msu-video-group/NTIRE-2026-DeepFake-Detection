@@ -1,0 +1,18 @@
+[project]
+name = "ntire-2026-deepfake-detection"
+version = "0.1.0"
+description = "ntire 2026 deepfake detection"
+readme = "README.md"
+requires-python = "==3.11.14"
+
+dependencies = [
+    "kornia>=0.8.2",
+    "numpy<2",
+    "pandas>=3.0.1",
+    "pillow>=12.1.1",
+    "pytorch-lightning>=2.5.5",
+    "scipy>=1.17.1",
+    "timm>=1.0.24",
+    "torchvision>=0.18",
+    "torch==2.8.0",
+]
