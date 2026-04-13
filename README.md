@@ -178,7 +178,10 @@ The AI Security Lab in SMBU has been continuously engaged in multimedia forensic
 If you use this code for your research, please cite our paper.
 
 ```
-@inproceedings{
-    coming soon
+@inproceedings{ntire26aigendet, 
+title={{    NTIRE 2026 Challenge on Robust AI-Generated Image Detection in the Wild    }}, 
+author={    Gushchin, Aleksandr and  Abud, Khaled and  Shumitskaya, Ekaterina and  Filippov, Artem and  Bychkov, Georgii and  Lavrushkin, Sergey and  Erofeev, Mikhail and  Antsiferova, Anastasia and  Chen, Changsheng and  Tan, Shunquan and  Timofte, Radu and  Vatolin, Dmitriy and others    },
+booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},  
+year = {2026} 
 }
 ```
